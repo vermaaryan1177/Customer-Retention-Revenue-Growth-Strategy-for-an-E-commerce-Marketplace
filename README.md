@@ -166,23 +166,10 @@ Key metrics analyzed:
 
 ## Power BI Dashboard
 
-The project includes an interactive Power BI dashboard designed for business stakeholders.
+<img width="1230" height="682" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/ded7cec7-e371-455b-ab12-ba53ad7fd6bd" />
+<img width="1227" height="687" alt="Customer   Product Analytics" src="https://github.com/user-attachments/assets/56f2ea79-8aaf-4b9f-8734-ac59fec53428" />
+<img width="1197" height="666" alt="Delivery Analytics" src="https://github.com/user-attachments/assets/65b071ea-a198-4476-abb2-3496635590dd" />
 
-### Dashboard Features
-
-Revenue Overview
-
-Customer Analytics
-
-Product Performance
-
-Seller Insights
-
-Geographic Analysis
-
-Delivery Performance Tracking
-
-Executive KPI Monitoring
 
 
 ## Key Business Insights
